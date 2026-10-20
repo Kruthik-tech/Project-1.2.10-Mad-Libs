@@ -1,4 +1,5 @@
---- APPROACH --- \n
+--- APPROACH --- 
+
 We utilized Google Docs to map out our project, documenting the:
 - Requirements
 - Pseudocode
