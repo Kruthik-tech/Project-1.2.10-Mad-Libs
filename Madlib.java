@@ -27,5 +27,12 @@ public class Madlib {
 
         System.out.println("Enter a verb");
         String input6 = madScanner.next();
+        
+        
+        
+        // output and scanner close
+        System.out.println(p1 + input1 + p3 + input2 + p4 + input3 + p5 + input4 + p6 + input5 + p7 + input6 + p8);
+        sc.close(); 
+
     }
 }
