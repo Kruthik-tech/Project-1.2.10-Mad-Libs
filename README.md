@@ -7,6 +7,8 @@ We utilized Google Docs to map out our project, documenting the:
 - Errors
 - MadLib Template
 - Todo
+
+
 In order to this, we read the entire PLTW document and reviewed the requirements
 before working on the pseudocode. Then we collaborated on the pseudocode before
 assigning group members responsibility for portions of the code. Once everyone
