@@ -32,6 +32,11 @@ Lead - Nam
 - 10-20-26 : Coding in Progress
 - 10-22-26 : Code Completed
 
+| Milestones | Estimated Time to Develop | Actual Time to Develop |
+| :--- | :---: | ---: |
+| Planning | 40 minutes | 30 minutes |
+| Standard text | More text | $100.00 |
+
 --- Functionality Screenshots ---
 <img width="1542" height="253" alt="image" src="https://github.com/user-attachments/assets/28378eee-707c-40a3-98e3-dc4d54b15386" />
 
