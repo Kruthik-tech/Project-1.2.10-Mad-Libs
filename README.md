@@ -7,10 +7,11 @@ We utilized Google Docs to map out our project, documenting the:
 - Errors
 - MadLib Template
 - Todo
-After which we began coding on forked repositories, making pull requests for changes.
-Once the code was finalized, we polished the code by adding comments and made sure
-it met the standard.
-
+In order to this, we read the entire PLTW document and reviewed the requirements
+before working on the pseudocode. Then we collaborated on the pseudocode before
+assigning group members responsibility for portions of the code. Once everyone
+finished their portions and were approved and merged, we began polishing our
+code by adding comments and made sure it aligned with the standard requirements.
 
 --- PROJECT DOCUMENTATION ---
 
