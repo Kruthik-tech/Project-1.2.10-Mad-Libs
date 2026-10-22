@@ -23,4 +23,7 @@ User Input - Kruthik
 Output/Scanner Close - Aedan
 Lead - Nam
 
---- 
+--- Functionality Screenshots ---
+<img width="1555" height="255" alt="image" src="https://github.com/user-attachments/assets/771e81a8-5877-492b-b880-66d3394eb9e2" />
+
+
