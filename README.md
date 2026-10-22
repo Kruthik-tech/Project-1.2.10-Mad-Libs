@@ -35,7 +35,11 @@ Lead - Nam
 | Milestones | Estimated Time to Develop | Actual Time to Develop |
 | :--- | :---: | ---: |
 | Planning | 40 minutes | 30 minutes |
-| Standard text | More text | $100.00 |
+| Design | 20 minutes | 15 minutes |
+| Phrase Definition | 10 minutes | 5 minutes |
+| User Input | 20 minutes | 20 minutes |
+| Output/Scanner Close | 20 minutes | 20 minutes |
+| Polishing (Comments/Requirements) | 20 minutes | 25 minutes |
 
 --- Functionality Screenshots ---
 <img width="1542" height="253" alt="image" src="https://github.com/user-attachments/assets/28378eee-707c-40a3-98e3-dc4d54b15386" />
