@@ -1,7 +1,9 @@
 import java.util.Scanner;
 public class Le_Madlib {
     public static void main(String[] args) {
+        // Intializes the scanner object
         Scanner madScanner = new Scanner(System.in);
+        // Intializing all of the pre-set phrases
         String p1 = "My first date and I met at a ";
         String p2 = " star restaurant. We were having a lot of fun until my date spilled ";
         String p3 = " all over my new T-shirt. I immediately called the waiter to bring us our check and it turned out to be ";
@@ -9,7 +11,7 @@ public class Le_Madlib {
         String p5 = " that my date offered to pay for my t-shirt and the dinner. But, I was still extremely ";
         String p6 = ", and then I started ";
         String p7 = " the restaurant without saying a word to her.";
-
+        // This segment asks the user for a variety of input to make the madlib
         System.out.println("Enter a whole number");
         int input1 = madScanner.nextInt();
 
@@ -29,8 +31,8 @@ public class Le_Madlib {
         String input6 = madScanner.next();
         
         
-        
         // output and scanner close
+        //Concatentes all of the inputs and strings and prints and final madlib
         System.out.println(p1 + input1 + p2 + input2 + p3 + input3 + p4 + input4 + p5 + input5 + p6 + input6 + p7);
         madScanner.close(); 
 
