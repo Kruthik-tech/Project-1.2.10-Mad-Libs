@@ -6,7 +6,7 @@ public class Le_Madlib {
         // Intializing all of the pre-set phrases
         String p1 = "My first date and I met at a ";
         String p2 = " star restaurant. We were having a lot of fun until my date spilled ";
-        String p3 = " all over my new T-shirt. I immediately called the waiter to bring us our check and it turned out to be ";
+        String p3 = " all over my new T-shirt. I immediately called the waiter to bring us our check and it turned out to be $";
         String p4 = ". It was ";
         String p5 = " that my date offered to pay for my t-shirt and the dinner. But, I was still extremely ";
         String p6 = ", and then I started ";
@@ -18,7 +18,7 @@ public class Le_Madlib {
         System.out.println("Enter a drink");
         String input2 = madScanner.next();
 
-        System.out.println("Enter a decimal number");
+        System.out.println("Enter a decimal number (two decimal places)");
         double input3 = madScanner.nextDouble();
 
         System.out.println("Enter true/false");
