@@ -7,8 +7,8 @@ public class Madlib {
         String p3 = " all over my new T-shirt. I immediately called the waiter to bring us our check and it turned out to be ";
         String p4 = ". It was ";
         String p5 = " that my date offered to pay for my t-shirt and the dinner. But, I was still extremely ";
-        String p6 = ", and then I ";
-        String p7 = " left the restaurant without saying a word to her.";
+        String p6 = ", and then I started ";
+        String p7 = " the restaurant without saying a word to her.";
 
         System.out.println("Enter a whole number");
         int input1 = madScanner.nextInt();
