@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Madlib {
+public class Le_Madlib {
     public static void main(String[] args) {
         Scanner madScanner = new Scanner(System.in);
         String p1 = "My first date and I met at a ";
