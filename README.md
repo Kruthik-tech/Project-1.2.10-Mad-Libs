@@ -33,6 +33,7 @@ Lead - Nam
 - 10-22-26 : Code Completed
 
 --- Functionality Screenshots ---
-<img width="1555" height="255" alt="image" src="https://github.com/user-attachments/assets/771e81a8-5877-492b-b880-66d3394eb9e2" />
+<img width="1542" height="253" alt="image" src="https://github.com/user-attachments/assets/28378eee-707c-40a3-98e3-dc4d54b15386" />
+
 
 
