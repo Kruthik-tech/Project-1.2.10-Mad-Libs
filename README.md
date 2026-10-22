@@ -19,6 +19,10 @@ code by adding comments and made sure it aligned with the standard requirements.
 
 https://docs.google.com/document/d/1KwOxk5cKqeeF3sXWZLjvQrp61mw72Y5p6wClATG_OUk/edit?usp=sharing
 
+--- SLIDESHOW ---
+
+https://docs.google.com/presentation/d/1OjhJFSfCr7Dxt-koMzj8yI1q7hZrYbGpvR5jRNWQWgI/edit?usp=sharing
+
 --- CONTRIBUTION ---
 
 Phrases - Samarth
