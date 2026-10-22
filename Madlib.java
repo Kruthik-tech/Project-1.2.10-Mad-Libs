@@ -31,7 +31,7 @@ public class Madlib {
         
         
         // output and scanner close
-        System.out.println(p1 + input1 + p3 + input2 + p4 + input3 + p5 + input4 + p6 + input5 + p7 + input6 + p8);
+        System.out.println(p1 + input1 + p2 + input2 + p3 + input3 + p4 + input4 + p5 + input5 + p6 + input6 + p7);
         madScanner.close(); 
 
     }
