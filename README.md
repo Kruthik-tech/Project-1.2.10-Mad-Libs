@@ -27,9 +27,10 @@ Output/Scanner Close - Aedan
 Lead - Nam
 
 --- MILESTONES ---
-10-19-26 : Planning Completed
-10-20-26 : Coding in Progress
-10-22-26 : Code Completed
+
+- 10-19-26 : Planning Completed
+- 10-20-26 : Coding in Progress
+- 10-22-26 : Code Completed
 
 --- Functionality Screenshots ---
 <img width="1555" height="255" alt="image" src="https://github.com/user-attachments/assets/771e81a8-5877-492b-b880-66d3394eb9e2" />
