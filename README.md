@@ -42,7 +42,8 @@ Lead - Nam
 | Polishing (Comments/Requirements) | 20 minutes | 25 minutes |
 
 --- Functionality Screenshots ---
-<img width="1542" height="253" alt="image" src="https://github.com/user-attachments/assets/28378eee-707c-40a3-98e3-dc4d54b15386" />
+<img width="1857" height="293" alt="image" src="https://github.com/user-attachments/assets/d9815b95-9b6b-4690-bfca-fdfe7ce67f24" />
+
 
 
 
